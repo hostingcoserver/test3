@@ -15,7 +15,7 @@
         "warningColor": "#a8aaf1",
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
-        "display1Font": "MuseoModerno",
+        "display1Font": "Playfair Display",
         "display1Size": 4.5,
         "display2Font": "MuseoModerno",
         "display2Size": 3,
@@ -43,6 +43,31 @@
         "css": "'Jost', sans-serif",
         "name": "Jost",
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Open Sans', sans-serif",
+        "name": "Open Sans",
+        "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
+      },
+      {
+        "css": "'PT Sans', sans-serif",
+        "name": "PT Sans",
+        "url": "https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i"
+      },
+      {
+        "css": "'Roboto Slab', serif",
+        "name": "Roboto Slab",
+        "url": "https://fonts.googleapis.com/css?family=Roboto+Slab:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Merriweather', serif",
+        "name": "Merriweather",
+        "url": "https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700,700i,900,900i"
+      },
+      {
+        "css": "'Playfair Display', serif",
+        "name": "Playfair Display",
+        "url": "https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,700,800,900,400i,500i,600i,700i,800i,900i"
       }
     ],
     "imageResize": true,
