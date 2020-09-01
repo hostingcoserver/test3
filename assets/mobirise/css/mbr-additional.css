@@ -1415,6 +1415,11 @@ a {
 .cid-s8y8wPb6CM .mbr-section-subtitle {
   color: #72dfe9;
 }
+@media (max-width: 629px) {
+  .cid-s8y8wPb6CM img#optionalstuff {
+    display: none;
+  }
+}
 .cid-s8y8HHMQSF {
   padding-top: 75px;
   padding-bottom: 0px;
