@@ -907,8 +907,8 @@ a {
   position: fixed;
 }
 .cid-s8y8vefZRr img {
-  width: 50px!important;
-  height: 50px!important;
+  width: 60px!important;
+  height: 60px!important;
 }
 .cid-s8y8vefZRr .navbar-short {
   background: #ffffff !important;
@@ -1007,7 +1007,7 @@ a {
   min-height: 60px;
 }
 .cid-s8y8vefZRr .navbar.navbar-short .navbar-logo img {
-  height: 3rem !important;
+  height: 60px !important;
 }
 .cid-s8y8vefZRr .navbar.navbar-short .navbar-brand {
   padding: 0;
@@ -1307,7 +1307,7 @@ a {
 }
 .cid-s8y8wPb6CM {
   padding-top: 15rem;
-  padding-bottom: 6rem;
+  padding-bottom: 8rem;
   background-color: #ffffff;
   overflow: hidden;
 }
